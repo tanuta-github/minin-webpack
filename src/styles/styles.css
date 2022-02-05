@@ -1,0 +1,15 @@
+@import 'roboto.css';
+@import "~normalize.css"l;
+body {
+    font-family: "Roboto";
+}
+.container {
+    color: #ccc;
+}
+.logo {
+    background-image: url('../assets/logo.png');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
